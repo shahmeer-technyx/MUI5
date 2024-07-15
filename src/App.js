@@ -1,8 +1,8 @@
-import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import Home from "./pages/Home";
-import Tour from "./pages/Tour";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import SearchAppBar from "./components/AppBar";
+import Tour from "./pages/Tour";
 
 function App() {
   return (
