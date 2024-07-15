@@ -25,13 +25,6 @@ const Home = () => {
             </>
           ))
         }
-        {/* <Grid container spacing={5}>
-
-          <TourCard />
-          <TourCard />
-          <TourCard />
-          <TourCard />
-        </Grid> */}
       </Container>
     </div>
   );
